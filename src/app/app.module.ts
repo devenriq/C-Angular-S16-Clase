@@ -12,7 +12,7 @@ import { PagesModule } from './pages/pages.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
+    AppRoutingModule ,
     PagesModule,
     ComponentsModule
   ],
